@@ -18,7 +18,7 @@ export const linkedin = async (args: string[]): Promise<string> => {
   return 'Opening linkedin...';
 };
 export const docx = async (args: string[]): Promise<string> => {
-  window.open(`https://hari.jeyakrishnan.fr/`);
+  window.open(`${config.social.blog}`);
 
   return 'Opening Docx...';
 };

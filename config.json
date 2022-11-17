@@ -2,9 +2,12 @@
   "bioUrl": "https://raw.githubusercontent.com/hari-jeya/terminal/master/pages/about.md",
   "social": {
     "instagram": "rudra.raw",
-    "github": "hari-jeya ",
-    "linkedin": "hari-jeyakrishnan"
+    "github": "hari-jeya",
+    "linkedin": "hari-jeyakrishnan",
+    "blog": "https://hari.jeyakrishnan.fr/"
   },
+  
+  "curentRepo": "terminal-2",
   "theme": "Obsidian",
   "border": true
 }

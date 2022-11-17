@@ -1,3 +1,5 @@
+import packageJson from '../../../package.json';
+
 export const banner = (args?: string[]): string => {
     return `
     ⠀⠀⠀ ⠀⠀⡾⠛⠳⣄⠀⣠⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
