@@ -1,10 +1,14 @@
 {
   "bioUrl": "https://raw.githubusercontent.com/hari-jeya/terminal/master/pages/about.md",
   "social": {
-    "instagram": "rudra.raw",
-    "github": "hari-jeya",
-    "linkedin": "hari-jeyakrishnan",
-    "blog": "https://hari.jeyakrishnan.fr/"
+    "Instagram": "https://www.instagram.com/rudra.raw/",
+    "GitHub": "hari-jeya",
+    "Linkedin": "hari-jeyakrishnan",
+    "Blog": "https://hari.jeyakrishnan.fr/",
+    "Ozint": "4080",
+    "TryHackMe":"H4ri",
+    "HackTheBox":"1044220",
+    "E-mail":"hari.jeya@outlook.fr"
   },
   
   "curentRepo": "terminal-2",

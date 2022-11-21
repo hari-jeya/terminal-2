@@ -19,11 +19,6 @@ export const date = async (args: string[]): Promise<string> => {
   return new Date().toString();
 };
 
-export const email = async (args: string[]): Promise<string> => {
-  window.open('mailto:hari.jeya@outlook.fr');
-  return 'Opening mailto:hari.jeya@outlook.fr...';
-};
-
 export const vi = async (args: string[]): Promise<string> => {
   return `why use vi? try 'emacs'.`;
 };
